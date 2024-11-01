@@ -7,6 +7,12 @@
 # [1] https://github.com/NixOS/nixpkgs/blob/fca0d6e093c82b31103dc0dacc48da2a9b06e24b/maintainers/maintainer-list.nix#LC1
 
 {
+  aabccd021 = {
+    name = "Muhamad Abdurahman";
+    email = "aabccd021@gmail.com";
+    github = "aabccd021";
+    githubId = 33031950;
+  };
   abayomi185 = {
     name = "Yomi";
     email = "yomi+nix@yomitosh.com";
@@ -276,6 +282,12 @@
     github = "nilp0inter";
     githubId = 1224006;
   };
+  NitroSniper = {
+    name = "Nitro Sniper";
+    email = "nitro@ortin.dev";
+    github = "NitroSniper";
+    githubId = 44097331;
+  };
   seylerius = {
     email = "sable@seyleri.us";
     name = "Sable Seyler";
@@ -336,6 +348,11 @@
     github = "ambroisie";
     githubId = 12465195;
     name = "Bruno BELANYI";
+  };
+  libewa = {
+    email = "libewa-git@icloud.com";
+    github = "libewa";
+    githubId = 67926131;
   };
   malvo = {
     email = "malte@malvo.org";
@@ -414,12 +431,6 @@
     email = "nurelin@users.noreply.github.com";
     github = "nurelin";
     githubId = 5276274;
-  };
-  omernaveedxyz = {
-    name = "Omer Naveed";
-    email = "omer@omernaveed.dev";
-    github = "omernaveedxyz";
-    githubId = 112912585;
   };
   otavio = {
     email = "otavio.salvador@ossystems.com.br";
@@ -592,5 +603,19 @@
     email = "michael@vanstraten.de";
     github = "michaelvanstraten";
     githubId = 50352631;
+  };
+  joygnu = {
+    name = "joygnu";
+    email = "contact@joygnu.org";
+    github = "joygnu";
+    githubId = 152063003;
+  };
+  callumio = {
+    name = "Callum Leslie";
+    email = "git+nix@cleslie.uk";
+    github = "callumio";
+    githubId = 16057677;
+    keys =
+      [{ fingerprint = "BC82 4BB5 1656 D144 285E  A0EC D382 C4AF EECE AA90"; }];
   };
 }
